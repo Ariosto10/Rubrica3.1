@@ -22,6 +22,7 @@ public class Rubrica31 {
         int Numero2 = 3;
         int Resultado = 0;
         Resultado=Numero1*Numero2;
+        System.out.println("El resultado de "+Numero1+" por "+Numero2+" es igual a : "+Resultado);
     }
     
 }
