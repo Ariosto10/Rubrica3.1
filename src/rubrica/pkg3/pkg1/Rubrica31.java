@@ -20,7 +20,7 @@ public class Rubrica31 {
         System.out.println("Hola Mundo");
         int Numero1 = 2;
         int Numero2 = 3;
-               
+        int Resultado = 0;
     }
     
 }
