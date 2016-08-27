@@ -18,6 +18,9 @@ public class Rubrica31 {
         // TODO code application logic here
         //Este deber pertenece a Muentes Chica Ariosto Alejandro.
         System.out.println("Hola Mundo");
+        int Numero1 = 2;
+        int Numero2 = 3;
+               
     }
     
 }
