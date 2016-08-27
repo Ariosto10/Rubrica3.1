@@ -21,6 +21,7 @@ public class Rubrica31 {
         int Numero1 = 2;
         int Numero2 = 3;
         int Resultado = 0;
+        Resultado=Numero1*Numero2;
     }
     
 }
